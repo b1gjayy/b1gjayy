@@ -2,7 +2,7 @@
 - 👀 I’m currently working on transitioning people's ideas into meaningful content.
 - 🌱 I’m currently learning to use my coding knowledge toward any project.
 - 💞️ I’m looking to collaborate on any project in need of a front-end developer.
-- 📫 How to reach me: jfmunlyn80@gmail.com
+- 📫 How to reach me: jfmunlyn80@gmail.com | (770) 296-4364
 - ⚡ Fun fact: I am 7'0 tall!
 
 <!---
